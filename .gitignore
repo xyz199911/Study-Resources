@@ -1,0 +1,14 @@
+# Windows
+Thumbs.db
+# Office
+~
+*.tmp
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+# IDE
+.idea/
+.vscode/
+*.suo
