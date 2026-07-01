@@ -1,4 +1,1 @@
-git lfs track "file"
-git add .gitattributes
-git commit -m "submit file"
-git push -u origin master 
+git lfs track "信号与系统.zip"
