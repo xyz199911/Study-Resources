@@ -1,1 +1,4 @@
 git lfs track "file"
+git add .gitattributes
+git commit -m "submit file"
+git push -u origin master 
